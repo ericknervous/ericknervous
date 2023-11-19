@@ -16,3 +16,5 @@ I a'm a Support Analyst and a programming student.
 > [![Discord Badge](https://img.shields.io/badge/Havai-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/havairp)
 [![Discord Badge](https://img.shields.io/badge/Flórida-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/floridarp)
 [![Discord Badge](https://img.shields.io/badge/Cancun-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cancunrp)
+
+ ![Snake animation](https://github.com/zGustavo/zGustavo/blob/output/github-contribution-grid-snake.svg)
