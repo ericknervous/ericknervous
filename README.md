@@ -17,4 +17,8 @@ I a'm a Support Analyst and a programming student.
 [![Discord Badge](https://img.shields.io/badge/Flórida-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/floridarp)
 [![Discord Badge](https://img.shields.io/badge/Cancun-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cancunrp)
 
- ![Snake animation](https://github.com/zGustavo/zGustavo/blob/output/github-contribution-grid-snake.svg)
+<div>
+<a href="https://github.com/ericknervous">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknervous&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ericknervous&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
